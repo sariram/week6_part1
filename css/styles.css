@@ -7,7 +7,7 @@ p {
   text-align: center; }
 
 body {
-  background-image: url("../images/berlin.png");
+  background-image: url("/images/berlin.png");
   padding-top: 2rem;
   width: 638px;
   margin: 0 auto; }
